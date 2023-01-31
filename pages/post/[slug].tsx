@@ -1,3 +1,5 @@
+//Direccion del deploy de sanity https://medium-srgm.sanity.studio/
+
 import { GetStaticProps } from "next";
 import Header from "../../components/Header";
 import { sanityClient, urlFor } from "../../sanity";
